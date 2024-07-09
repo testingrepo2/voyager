@@ -7,7 +7,7 @@
 <h1 align="center">
     <img height="150" src="https://user-images.githubusercontent.com/2512298/127723355-f56b3040-47cb-44fd-8504-a1868721c1a3.png"/>
     <br>
-    <a href="https://voyager.adriel.cafe">Voyager</a>: Compose on Warp Speed 
+    <a href="https://voyager.adriel.cafe">Voyager</a>: Compose on Warp Speed  
 </h1>
 
 A multiplatform navigation library built for, and seamlessly integrated with, [Jetpack Compose](https://developer.android.com/jetpack/compose).

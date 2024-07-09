@@ -16,7 +16,7 @@ Create scalable Single-Activity apps powered by a [pragmatic API](https://voyage
 
 ```kotlin
 class HomeScreenModel : ScreenModel {
-    // ...
+    // ... 
 }
 
 class HomeScreen : Screen {
